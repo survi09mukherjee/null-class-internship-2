@@ -1,0 +1,9 @@
+{
+  "rss_feeds": [
+    "https://news.ycombinator.com/rss"
+  ],
+  "urls": [
+    "https://example.com"
+  ],
+  "poll_interval_minutes": 60
+}
