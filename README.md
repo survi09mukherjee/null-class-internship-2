@@ -27,8 +27,21 @@ The project integrates **Natural Language Processing (NLP)**, **sentiment analys
 
 ## 📁 Repository Structure
 
+```
+null-class-internship-2/
 
-**Explanation:**
+├── Task-1/                  # Dynamic knowledge base updater
+├── Task-2/                  # Multimodal chatbot
+├── Task-3/                  # Medical Q&A chatbot
+├── Task-4/                  # Domain expert chatbot
+├── Task-5/                  # Sentiment analysis integration
+├── Task-6/                  # Multilingual chatbot
+├── requirements.txt         # Project dependencies
+└── README.md                # Documentation
+
+```
+
+##Explanation:
 
 - `main_chatbot.py` → Core chatbot engine handling conversation flow.  
 - `multilingual_chatbot.py` → Language detection and translation support.  
@@ -168,7 +181,7 @@ It represents a major step toward creating chatbots that are **contextually awar
 
 ---
 
-🪄 *Developed by Survi Mukherjee under the NullClass Internship Program (2025)*  
+*Developed by Survi Mukherjee under the NullClass Internship Program (2025)*  
 📧 **Contact:** survi09mukherjee@gmail.com  
 🌐 **GitHub:** [survi09mukherjee](https://github.com/survi09mukherjee)
 
